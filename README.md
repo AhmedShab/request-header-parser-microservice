@@ -1,6 +1,6 @@
 ## Overview
 
-I'm doing freeCodeCamp challenages and this is part of the backend. In this challenage we were asked to do the following:
+I'm doing freeCodeCamp challenges and this is part of the backend. In this challenge we were asked to do the following:
 
 User Story: I can get the IP address, language and operating system for my browser.
 
